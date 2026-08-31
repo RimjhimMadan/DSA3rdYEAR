@@ -21,4 +21,4 @@ int main() {
         cout << arr[i] << " ";
     }
 
-}2
+}
